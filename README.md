@@ -1,10 +1,10 @@
-# TFT, an EmulationStation theme made for small screens
+# 240p, an EmulationStation theme made for 240p small screens
 
-This is very much a work in progress =)
+This is very much a work in progress and will be our RetroKAI's Game Gear ZERO default theme.
 
-I am building a portable and wanted to take a shot a creating a theme that fits the size of a TFT screen (specifically 320x240 resolution)
+We are building a handheld console and wanted to take a shot improving a theme that fits the size of our screen (specifically 320x240 resolution).
 
-Design wise I am going for a layout that gives a small glimpse of the game selected and removes all other metadata to keep the views light.
+Design wise we are going for a layout that gives a small glimpse of the game selected and removes all other metadata to keep the views light.
 
 ## Preview
 
@@ -28,7 +28,7 @@ Design wise I am going for a layout that gives a small glimpse of the game selec
 ## Acknowledgments
 - Thank you to @jdrassa for fixing an issue in ES that allowed this layout to be possible
 - All controller graphics are from the default Carbon theme made by Eric Hettervik (see: https://github.com/RetroPie/es-theme-carbon/)
-- anthonycaccese from who I forked this entire project to adapt it to our new handheld console.
+- @anthonycaccese from who I forked this entire project to adapt it to our new handheld console.
 
 ## Possible Future Updates
 - UXS profiles to streamline scraping

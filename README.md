@@ -28,6 +28,8 @@ Design wise I am going for a layout that gives a small glimpse of the game selec
 ## Acknowledgments
 - Thank you to @jdrassa for fixing an issue in ES that allowed this layout to be possible
 - All controller graphics are from the default Carbon theme made by Eric Hettervik (see: https://github.com/RetroPie/es-theme-carbon/)
+- anthonycaccese from who I forked this entire project to adapt it to our new handheld console.
 
 ## Possible Future Updates
 - UXS profiles to streamline scraping
+- Update a few graphics to fit our RetroKAI's Game Gear ZERO.
